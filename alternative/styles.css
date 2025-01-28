@@ -201,11 +201,11 @@ button:hover {
   }
 
   h1 {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .information p {
-    font-size: 12px; /* Reduz o tamanho da fonte do parágrafo */
+    font-size: 14px; /* Reduz o tamanho da fonte do parágrafo */
     width: 80%;
     max-width: 300px;
     padding: 0 10px;
