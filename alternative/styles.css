@@ -177,11 +177,11 @@ button:hover {
   }
 
   .information p {
-    font-size: 12px; /* Reduz o tamanho da fonte do parágrafo */
+    font-size: 12px; 
     width: 80%;
-    max-width: 300px;
+    max-width: 500px;
     padding: 0 10px;
-    margin: 0 auto; /* Garante o alinhamento centralizado do texto */
+    margin: 0 auto; 
   }
 
   p br {
@@ -205,9 +205,9 @@ button:hover {
   }
 
   .information p {
-    font-size: 14px; /* Reduz o tamanho da fonte do parágrafo */
+    font-size: 14px; 
     width: 80%;
-    max-width: 300px;
+    max-width: 400px;
     padding: 0 10px;
     margin: 0 auto;
   }
